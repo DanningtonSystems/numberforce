@@ -1,0 +1,11 @@
+{
+  "name": "numberforce",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chalk": "4",
+    "piscina": "^3.2.0"
+  }
+}
